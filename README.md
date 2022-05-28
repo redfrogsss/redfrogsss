@@ -4,7 +4,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redfrogsss" alt="redfrogsss's Top language" height="220px"></img>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,5 +33,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2022 19:03:33 UTC
+ Last Updated on 28/05/2022 18:44:08 UTC
 <!--END_SECTION:waka-->
