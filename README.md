@@ -3,7 +3,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=redfrogsss&show_icons=true" alt="redfrogsss's Github stats"></img>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -33,5 +33,5 @@ C++                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/06/2022 04:22:26 UTC
+ Last Updated on 01/06/2022 14:34:44 UTC
 <!--END_SECTION:waka-->
