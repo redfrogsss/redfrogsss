@@ -9,13 +9,14 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   15 mins             ████████████████████████░   95.62% 
+TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 10/01/2023 00:58:58 UTC
+ Last Updated on 11/01/2023 00:57:05 UTC
 <!--END_SECTION:waka-->
