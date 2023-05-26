@@ -14,9 +14,7 @@ I am a year 4 student studying Computing at The Hong Kong Polytechnic University
    -  ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
    -  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
    -  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
-
 - 💡 I'm also interested in `Mobile App Development`.
-
 - 🌱 I’m currently learning: 
   - `React Native`
   - `Minecraft Plugin Development`
