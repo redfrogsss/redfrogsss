@@ -41,4 +41,5 @@ I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
 
 <hr />
 Last Updated: May 26 2023
-![](https://komarev.com/ghpvc/?username=your-github-username)
+
+<img src="https://komarev.com/ghpvc/?username=redfrogsss">
