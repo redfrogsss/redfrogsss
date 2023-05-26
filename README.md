@@ -34,7 +34,7 @@ I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
 - [attendance-system](https://github.com/redfrogsss/attendance-system-java) - Student Attendance System
 
 ### 📫 Contact Me
-- ![https://github.com/redfrogsss](https://img.shields.io/badge/github-redfrogsss-lightgrey?style=for-the-badge&logo=github)
-- ![mailto:contact@jacky.fan](https://img.shields.io/badge/email-contact%40jacky.fan-green?style=for-the-badge&logo=minutemailer)
-- ![https://jacky.fan](https://img.shields.io/badge/website-https://jacky.fan-yellow?style=for-the-badge&logo=google-chrome)
-- ![https://www.linkedin.com/in/jacky-fan-dev/](https://img.shields.io/badge/linkedin-jacky--fan--0b1b3b1b2-informational?style=for-the-badge&logo=linkedin)
+- <a href="https://github.com/redfrogsss" target="_blank">![https://github.com/redfrogsss](https://img.shields.io/badge/github-redfrogsss-lightgrey?style=for-the-badge&logo=github)</a>
+- <a href="mailto:contact@jacky.fan" target="_blank">![mailto:contact@jacky.fan](https://img.shields.io/badge/email-contact%40jacky.fan-green?style=for-the-badge&logo=minutemailer)</a>
+- <a href="https://jacky.fan" target="_blank">![https://jacky.fan](https://img.shields.io/badge/website-https://jacky.fan-yellow?style=for-the-badge&logo=google-chrome)</a>
+- <a href="https://www.linkedin.com/in/jacky-fan-dev/" target="_blank">![https://www.linkedin.com/in/jacky-fan-dev/](https://img.shields.io/badge/linkedin-jacky--fan--0b1b3b1b2-informational?style=for-the-badge&logo=linkedin)</a>
