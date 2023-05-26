@@ -5,7 +5,9 @@
 👨🏻‍💻 I am a year 4 student studying Computing at The Hong Kong Polytechnic University. 
    
 I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
+   
 </div>
+
 ### 🌐 Languages & Tools
 -  📄 I'm more fimilar with `Web Development`, especially on:
    -  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
