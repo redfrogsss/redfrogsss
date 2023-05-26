@@ -1,26 +1,36 @@
-### 👋 Hi there, I'm Jacky FAN
+## 👋 Hi there, I'm [Jacky Fan](https://jacky.fan).
 
-⏳**Total code time:** [![wakatime](https://wakatime.com/badge/user/2cbd8003-b8b8-4565-92d7-ad9c23ff1846.svg)](https://wakatime.com/@2cbd8003-b8b8-4565-92d7-ad9c23ff1846)
+I am a year 4 student studying Computing at The Hong Kong Polytechnic University. I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
 
-<img src="https://github-readme-stats.vercel.app/api?username=redfrogsss&show_icons=true" alt="redfrogsss's Github stats"></img>
+### 🌐 Languages & Tools
+-  📄 I'm more fimilar with `Web Development`, especially on:
+   -  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
+   -  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+   -  ![Expressjs](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
+   -  ![Python Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white)
+   -  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+   -  ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white)
+   -  ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white)
+   -  ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
+   -  ![HTML](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+   -  ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white)
 
-<!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+- 💡 I'm also interested in `Mobile App Development`.
 
-```text
-💬 Programming Languages: 
-TypeScript               7 hrs 15 mins       ███████████████░░░░░░░░░░   60.35 % 
-Java                     4 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   35.86 % 
-INI                      16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.24 % 
-Other                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+- 🌱 I’m currently learning: 
+  - `React Native`
+  - `Minecraft Plugin Development`
 
-🔥 Editors: 
-VS Code                  7 hrs               ███████████████░░░░░░░░░░   58.27 % 
-IntelliJ                 4 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.15 % 
-Neovim                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
-```
+### 📽️ Projects
+- [jacky.fan]("https://github.com/redfrogsss/jacky.fan") - My personal website
+- [CRS Web]("https://github.com/redfrogsss/CRS") - Web-based Conversational Recommender System
+- [selfremind]("https://github.com/redfrogsss/selfremind") - Selfhosted To-do List Manager
+- [RedStream]("https://github.com/redfrogsss/RedStream") - Movie Streaming Website
+- [gdsc-portfolio]("https://github.com/redfrogsss/gdsc-portfolio") - Simple Portfolio Website
+- [attendance-system]("https://github.com/redfrogsss/attendance-system-java") - Student Attendance System
 
-
- Last Updated on 26/05/2023 00:53:07 UTC
-<!--END_SECTION:waka-->
+### 📫 Contact Me
+- ![https://github.com/redfrogsss](https://img.shields.io/badge/github-redfrogsss-lightgrey?style=for-the-badge&logo=github)
+- ![mailto:contact@jacky.fan](https://img.shields.io/badge/email-contact%40jacky.fan-green?style=for-the-badge&logo=minutemailer)
+- ![https://jacky.fan](https://img.shields.io/badge/website-https://jacky.fan-yellow?style=for-the-badge&logo=google-chrome)
+- ![https://www.linkedin.com/in/jacky-fan-dev/](https://img.shields.io/badge/linkedin-jacky--fan--0b1b3b1b2-informational?style=for-the-badge&logo=linkedin)
