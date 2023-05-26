@@ -21,12 +21,12 @@ I am a year 4 student studying Computing at The Hong Kong Polytechnic University
   - `Minecraft Plugin Development`
 
 ### 📽️ Projects
-- [jacky.fan]("https://github.com/redfrogsss/jacky.fan") - My personal website
-- [CRS Web]("https://github.com/redfrogsss/CRS") - Web-based Conversational Recommender System
-- [selfremind]("https://github.com/redfrogsss/selfremind") - Selfhosted To-do List Manager
-- [RedStream]("https://github.com/redfrogsss/RedStream") - Movie Streaming Website
-- [gdsc-portfolio]("https://github.com/redfrogsss/gdsc-portfolio") - Simple Portfolio Website
-- [attendance-system]("https://github.com/redfrogsss/attendance-system-java") - Student Attendance System
+- [jacky.fan](https://github.com/redfrogsss/jacky.fan) - My personal website
+- [CRS Web](https://github.com/redfrogsss/CRS) - Web-based Conversational Recommender System
+- [selfremind](https://github.com/redfrogsss/selfremind) - Selfhosted To-do List Manager
+- [RedStream](https://github.com/redfrogsss/RedStream) - Movie Streaming Website
+- [gdsc-portfolio](https://github.com/redfrogsss/gdsc-portfolio) - Simple Portfolio Website
+- [attendance-system](https://github.com/redfrogsss/attendance-system-java) - Student Attendance System
 
 ### 📫 Contact Me
 - ![https://github.com/redfrogsss](https://img.shields.io/badge/github-redfrogsss-lightgrey?style=for-the-badge&logo=github)
