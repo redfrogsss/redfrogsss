@@ -1,6 +1,7 @@
 ## 👋 Hi there, I'm [Jacky Fan](https://jacky.fan).
 
-I am a year 4 student studying Computing at The Hong Kong Polytechnic University. I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
+I am a year 4 student studying Computing at The Hong Kong Polytechnic University. 
+- I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
 
 ### 🌐 Languages & Tools
 -  📄 I'm more fimilar with `Web Development`, especially on:
