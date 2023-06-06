@@ -23,10 +23,6 @@ I enjoy working on Web Development projects, especially with:
 
 💡 I'm also interested in `Mobile App Development`.
 
-🌱 I’m currently learning: 
-- `React Native`
-- `Minecraft Plugin Development`
-
 ### 📽️ Projects
 Here are some of the projects that I have worked on:
 - [jacky.fan](https://github.com/redfrogsss/jacky.fan) - My personal website
