@@ -2,9 +2,7 @@
 
 ## 👋 Hi there, I'm [Jacky Fan](https://jacky.fan).
 
-<del>👨🏻‍💻 I am a year 4 student studying Computing at The Hong Kong Polytechnic University.</del>
-
-I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
+👨🏻‍💻 I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
 
 </div>
 
