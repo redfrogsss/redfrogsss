@@ -7,7 +7,7 @@
 </div>
 
 ### 🌐 Languages & Tools
-I enjoy working on Web Development projects, especially with:
+I enjoy working on Web Development projects. Here are some of the tech applied into my projects:
 -  ![Typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)
 -  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
 -  ![Expressjs](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white)
