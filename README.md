@@ -34,7 +34,6 @@ You can reach me through any of these platforms:
 - <a href="https://jacky.fan" target="_blank">![https://jacky.fan](https://img.shields.io/badge/website-https://jacky.fan-yellow?style=for-the-badge&logo=google-chrome)</a>
 - <a href="https://www.linkedin.com/in/jacky-fan-dev/" target="_blank">![https://www.linkedin.com/in/jacky-fan-dev/](https://img.shields.io/badge/linkedin-jacky--fan--0b1b3b1b2-informational?style=for-the-badge&logo=linkedin)</a>
 
-<hr />
-Last Updated: 1 Jun, 2023
+<hr /
 
 <img src="https://komarev.com/ghpvc/?username=redfrogsss">
