@@ -9,16 +9,16 @@
 ### 🌐 Languages & Tools
 I enjoy working on Web Development projects. Here are some of the tech applied into my projects:
 
--  ![Typescript](./TypeScript.png)
--  ![React](./React.png)
--  ![NextJS](./Next.js.png)
--  ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
--  ![TailwindCSS](./Tailwindcss6.png)
--  ![HTML5](./HTML.png)
--  ![Github](./GitHub.png)
--  ![VSCode](./VisualStudioCodeRound.png)
--  ![Vim](./VIM.png)
--  ![Cloudflare](./Cloudflare.png)
+-  <div stlye="height: 28px;">![Typescript](./TypeScript.png)</div>
+-  <div stlye="height: 28px;">![React](./React.png</div>)
+-  <div stlye="height: 28px;">![NextJS](./Next.js.png</div>)
+-  <div stlye="height: 28px;">![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)</div>
+-  <div stlye="height: 28px;">![TailwindCSS](./Tailwindcss6.png)</div>
+-  <div stlye="height: 28px;">![HTML5](./HTML.png)</div>
+-  <div stlye="height: 28px;">![Github](./GitHub.png)</div>
+-  <div stlye="height: 28px;">![VSCode](./VisualStudioCodeRound.png)</div>
+-  <div stlye="height: 28px;">![Vim](./VIM.png)</div>
+-  <div stlye="height: 28px;">![Cloudflare](./Cloudflare.png)</div>
 
 💡 I'm also interested in `Mobile App Development`.
 
