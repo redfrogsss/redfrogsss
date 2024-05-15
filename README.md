@@ -15,7 +15,7 @@ I enjoy working on Web Development projects. Here are some of the tech applied i
 -  ![CSS](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 -  ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
 
-💡 I'm also interested in `Mobile App Development`.
+<!--💡 I'm also interested in `Mobile App Development`.-->
 
 ### 📽️ Projects
 Here are some of the projects that I have worked on:
