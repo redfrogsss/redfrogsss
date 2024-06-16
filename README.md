@@ -19,6 +19,7 @@ I enjoy working on Web Development projects. Here are some of the tech applied i
 
 ### 📽️ Projects
 Here are some of the projects that I have worked on:
+- [Designo](https://github.com/redfrogsss/designo-multipage-website) - Multi-page website with CMS for Frontend Mentor Challenge
 - [Nuxt Blog](https://github.com/redfrogsss/nuxt-blog) - My personal blog
 - [v2.jacky.fan](https://github.com/redfrogsss/v2.jacky.fan) - My personal website
 - [CRS Web](https://github.com/redfrogsss/CRS) - Web-based Conversational Recommender System
