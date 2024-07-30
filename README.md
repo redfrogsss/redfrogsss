@@ -2,7 +2,7 @@
 
 ## 👋 Hi there, I'm [Jacky Fan](https://jacky.fan).
 
-👨🏻‍💻 I am passionate about `Programming`, `Web Technology` and `Problem Solving`.
+👨🏻‍💻 I am a frontend developer who passionate about `Programming`, `Web Technology` and `Problem Solving`.
 
 </div>
 
